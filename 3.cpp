@@ -130,7 +130,7 @@ int main()
     }
 
     //for (int i = 0; i < v1.length(); i++)
-    //    cout << v1[i] <<"."<<endl;666699999111110000
+    //    cout << v1[i] <<"."<<endl;666699999111110000；
 
     return 0;
 }
